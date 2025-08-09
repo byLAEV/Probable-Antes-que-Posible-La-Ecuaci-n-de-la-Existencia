@@ -220,7 +220,7 @@ Esta ecuación no depende de voluntad, ni de fe, ni de diseño divino, sino de u
 ecuacion_existencia.py
 ----------------------
 Implementación de la Ecuación de la Existencia propuesta por
-Lerry Alexander Elizondo Villalobos & Emilia Jiménez Artavia.
+Lerry Alexander Elizondo Villalobos & Emilia Jiménez Artavia 
 
 Ecuación:
     E(p) = 1 si P(p) * Pi(p) >= theta
@@ -236,8 +236,8 @@ Uso:
 
     print(existe(0.9, 1, theta=0.1))  # True
 
-Autor: LAEV & Emilia Jiménez Artavia
-Licencia: Propiedad Intelectual Registrada
+Autor: LAEV & Emilia Jiménez Artavia como participante de la conversación que generó mi trabajo profesional. 
+Licencia: Propiedad Intelectual Registrada a LAEV Lerry alexander Elizondo Villalobos 
 """
 
 from typing import Union
